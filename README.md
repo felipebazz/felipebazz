@@ -39,6 +39,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/felipebazz/legendarygodspeed/output/snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/felipebazz/felipebazz/output/snake.svg)
   
 </div>
