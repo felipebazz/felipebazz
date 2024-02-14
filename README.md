@@ -9,7 +9,7 @@
     Sou Desenvolvedor Full-stack e estou em busca de aprender mais para me tornar um dev sênior
   </p>
   
-  <p align="center">
+  <p align="center"> 
     Utilizo meus conhecimentos e meu trabalho para criar projetos para automatizar tarefas dos meus hobbies ⚡
   </p>
   
